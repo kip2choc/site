@@ -1,6 +1,12 @@
-# Petrol motors 
 This page considers a Cooper 120 hp 120 ch 1.6L model year 2008: N12 (N12B16) équivaut à PSA EP6.
 
+# Table of contents
+1. [Petrol engines](#petrol-engines)
+2. [Battery](#Battery)
+3. [Brakes](#Brakes)
+4. [Lubrification](#Lubrification)
+
+# Petrol engines <a name="petrol-engines"></a>
 From [3] 2A-1:
 - 1.4L 1397cc N12B14
 - 1.6L 1598cc
@@ -28,69 +34,111 @@ LCI (facelift) à partir de mars ou août 2010.
 - Note that start and stop is capricious, don't expect much.
 - I've seen a Bosch none EFB/AGM battery running for 7 years.
 
-# Brake
-Prefer dedicated grease such as Bosch Superfit TO 100 instead of copper grease as we used to. 
-## Pads
-## Discs
-- Rear wear min thickness: 8.4 mm.
-- Delphi bg3662 or bg3662c (newer, do not require to be cleaned).
-
-# Sièges
-- Les dossiers des sièges avant ont du jeu.
-- Il y a un couinement de petit oiseau dans un siège arrière qui est absent banquettes rabattues.
-# Tempétature moteur
-N'est pas affichée, certainement pour ne pas effrayer l'utilisateur car elle monte haut et varie beaucoup sur ces moteurs [2].
-
 # Infotainment
-## Réglages
-Heure
-## Consultations des défauts
-## Remise à zéro entretien
+	## Réglages
+		Heure
+	## Consultations des défauts
+	## Remise à zéro entretien
 
-# Vidange huile moteur
-- Filtre Purflux (ce sont les meilleurs), L358A (OE 11427622446).
-- Huile
-	- BMW LL-04 Long-life 04. ([3] 0-16)
-	- Pour appoint, SAE 0W-30; SAE 5W-30 ou ACEA A3 possible. ([3] 0-16)
-	- Total Classic 9 LL 5W-30
-	- Total Classic 9 C3 5W-30
-	- Evolution FULLTECH LLX 5W-30
-	- Quartz Ineo Long Life 5W-30
-	- Quartz Ineo RCP 5W-30
+# Brakes
+## Pads
+- 34216778327
+- Avoid Bosch reference since they either come with no screws or at best only two screws instead of 4 needed
+- Also try to get a reference with anti-rattle clips. 
+## Discs
+- Diameter : 259mm (I advise to check before), 4 holes, entre-axe (ET) 100
+- OE: 34216774987
+- Rear wear min thickness: 8.4 mm.
+- Delphi bg3662 or bg3662c (newer reference, do not require to be cleaned).
 
-0W30 consomme plus mais c'est mieux pour la visco à froid de ce moteur, surtout pour les petits trajets donc.
-Il semble que plus une huile répond à de normes, plus elle est performante car cela demande d'ajouter plus de coûteux additifs.
-Dans le doute, on préfèrera une huile qui répond à beaucoup de normes.
+# Petrol filter
+- Cannot be renewed, in case of probem, the whole assembly needs to be replaced
+- https://forum-auto.caradisiac.com/topic/87804-remplacer-le-filtre-%C3%A0-essence-cooper-120cv-de-2009/
+- We come over OE: 11252754870 sometimes but not sure it can fit somewhere.
 
-- Joint cuivre diamétre int 16mm et ext 22mm (Restagraf 227372 x4), OE 11 13 7 546 275 / 11137546275 / 12617546239.
-- Bouchon (et joint) : OE 11137546274, 11137585928.
-- https://static.nhtsa.gov/odi/tsbs/2016/MC-10147575-9999.pdf
+# Lubrification
+	## Jauge moteur
+		- Illisible. Trouvable à moins de 10 euro. Attention cependant les autres modèles peuvent être plus larges entre min et max!
+		- **MINI 11 43 7 585 970 / 11437585970**
+		- PEUGEOT / CITROËN / DS 1174.A4
+		- PEUGEOT / CITROËN / OPEL / DS 98 307 794 80
+		- MINI 11 43 7 549 422 / 11437549422
+		- MINI 11 43 7 561 567 / 11437561567
+		- MINI 11 43 7 566 021 / 11437566021
+		- MINI 11 43 7 568 567 / 11437568567
 
-# Jauge moteur
-Illisible. Trouvable à moins de 10 euro. Attention cependant les autres modèles peuvent être plus larges entre min et max!
-- **MINI 11 43 7 585 970 / 11437585970**
-- PEUGEOT / CITROËN / DS 1174.A4
-- PEUGEOT / CITROËN / OPEL / DS 98 307 794 80
-- MINI 11 43 7 549 422 / 11437549422
-- MINI 11 43 7 561 567 / 11437561567
-- MINI 11 43 7 566 021 / 11437566021
-- MINI 11 43 7 568 567 / 11437568567
+	## Vidange huile moteur
+		- Filtre Purflux (ce sont les meilleurs), L358A (OE 11427622446).
+		- Huile
+			- BMW LL-04 Long-life 04. ([3] 0-16)
+			- Pour appoint, SAE 0W-30; SAE 5W-30 ou ACEA A3 possible. ([3] 0-16)
+			- Total Classic 9 LL 5W-30
+			- Total Classic 9 C3 5W-30
+			- Evolution FULLTECH LLX 5W-30
+			- Quartz Ineo Long Life 5W-30
+			- Quartz Ineo RCP 5W-30
 
-# Thermostat et boîtier de thermostat
+		0W30 consomme plus mais c'est mieux pour la visco à froid de ce moteur, surtout pour les petits trajets donc.
+		Il semble que plus une huile répond à de normes, plus elle est performante car cela demande d'ajouter plus de coûteux additifs.
+		Dans le doute, on préfèrera une huile qui répond à beaucoup de normes.
+
+		- Joint cuivre diamétre int 16mm et ext 22mm (Restagraf 227372 x4), OE 11 13 7 546 275 / 11137546275 / 12617546239.
+		- Bouchon (et joint) : OE 11137546274, 11137585928.
+		- https://static.nhtsa.gov/odi/tsbs/2016/MC-10147575-9999.pdf
+
+
+# Cooling, thermostat et boîtier de thermostat
 - Le boîtier a tendance à se fendre (corps en plastique) et donc fuire.
 - Le thermostat ne se démonte pas de ce boîtier. On ne le changera donc pas seul.
-- Il a une prise de sonde de température d'eau, connecteur vert en plastique vert sur le faisceu qui devient cassant (sûrement à cause du colorant du plastique).
+- Il a une prise de sonde de température d'eau, connecteur vert en plastique vert sur le faisceau qui devient cassant (sûrement à cause du colorant du plastique).
 	- Elle est difficile à trouver mais on tentera de bricoler un faisceau.
 - There is another plug to heat-control the internal wax.
+- Those 2 plugs are very similar but seem to have different keyed connections. 
+- The may stems from the silicone gasket within the thermoplastic housing.
+	- While it performs well under high heat, oil exposure causes it to swell over time
+	- FIx and clean oil leaks around the thermostat housing.
+
+Here’s what experienced pros have observed to reduce comebacks:
+1. Find and fix any oil leaks near the thermostat assembly.
+2. Clean off any residual oil before installing the replacement.
 
 ## Code P0597 Thermostat Heater Control Circuit/Open
 - "Control Circuit open": circuit refers to an electrical device and "control" corroborates it is not the coolant system that is open.
 - Il semble qu'un tel thermostat contrôlé électriquement devrait présenter une résitance de 10 Ohm à 30 Ohm et est ouvert quand la pièce est défectueuse.
 - Il faudrait mesurer la résistance pour diagnostiquer un problème.
+	- La résistance au bornes du capteur de température est de 4.12 kOhm à froid, cela semble correct
+		- la résitance baisse quand la température monte (type NTC/CTN - coefficient de température négatif)
+		- ordre de grandeur, à froid plusieurs kOhm et à chaud, qq dizaines d'Ohm
+			- 20 °C :	10 000 - 15 000 Ω
+			- 0 °C	: 8 200 - 11 000 Ω
+			- 20 °C	: 2 500 - 5 000 Ω
+			- 40 °C	: 1 500 - 3 000 Ω
+			- 60 °C	: 600 - 2 600 Ω
+			- 80 °C	: 200 - 1 300 Ω
+			- 100 °C : 50 - 500 Ω
 - On pourrait peut-être aussi tester le faisceau avant de remplacer la pièce, mais comment?
 - On présume que par défaut le circuit de liquide est ouvert (le moins dangereux) et qu'au démarrage à froid, le calculateur alimente à 12V pour chauffer la cire, 
 fermer le circuit et ainsi accélérer la chauffe.
 - Il semble que ce soit un fonctionnement on/off (12V ou 0V).
+- In my case, the error occured after having filed with a slightly different coolant and also noticing the expansion tank screw plug could be indefinitely screwed (maybe coincidence)
+- [youtu.be/K4q0tBGFe1w]()
+- [https://www.youtube.com/watch?v=LZZnzX3yHVE]()
+- [https://www.youtube.com/watch?v=JTjCEk2pUog]()
+
+## Coolant
+- 82 14 0 031 133 / 82-14-0-031-133 / 82-14-0-031-133-M26 / 82.14.0.031.133 / 82140031133
+	- Can be bought from Mini
+	- This phosphate and nitrite-free, non-diluted coolant should be used with a 50/50 distilled water mix. 
+- Hard to know what is the aftermarket equivalent
+	- [Pentosin NF](./Pentosin-Product-Data-Sheet-Antifreeze-Pentofrost-NF.pdf) fits
+- Le bouchon sans pouvoir tourner sans fin
+	- je vais d'abord le changer puis si c'est la même chose, il faudra changer le vase
+	- vase OE : **17137539267** / 17137823626
+	- bouchon OE : **17135A1BD89**, 17117639024, 17132754264, 7639024, 2754264
+	
+	## Tempétature moteur
+		- N'est pas affichée, certainement pour ne pas effrayer l'utilisateur car elle monte haut et varie beaucoup sur ces moteurs [2].
+		- [https://www.youtube.com/watch?v=pZI1_S9ffX0](Hidden menu)
 
 # Courroie alternateur
 - 11287566789 (6K X 905)
@@ -103,6 +151,11 @@ fermer le circuit et ainsi accélérer la chauffe.
 	- S'il manque des morceaux, ils peuvent être dans la crépine de la pompe à huile immergée ou au fond du carter.
 	- Dans les 2 cas, il faut démonter le carter et refaire son joint à la pâte.
 - [Tuto changement](https://forum-auto.caradisiac.com/topic/480032-probl%C3%A8me-de-chaine-de-distribution-r%C3%A9solue-moteur-thp-mini-jcw/)
+- Vidéos changement de kit de chaîne de distribution
+	- [https://www.youtube.com/watch?v=hp8RKApbcxc]()
+	- [https://www.youtube.com/watch?v=VoPz9sEvYN4]()
+	- [https://www.youtube.com/watch?v=hdM0t7FYGOA]()
+	- [https://www.youtube.com/watch?v=8Wpdm_36_6o]()
 	## Tensionner
 	- À minima, il faudrait changer le tendeur car la pièce originale posait problème (trop courte).
 	- C'est une des causes du claquement à froid (death rattle), plutôt sur les Cooper S. La chaîne pas assez tendue claque sur le guide.
@@ -118,6 +171,19 @@ Pourtant, une pièce commandée chez BMW en 2026 est bel et bien plus longue et 
 
 - Autre source de fuite : joint villebrequin Shaft seal 61X75X8 Qty:1 ; OE: 11117568264. 
 - À remplacer au moment de la distri si possible?
+- MINI Cooper Front Crankshaft Seal Installer (suits N12, N14, N16, N18 engines)
+	- Schwaben 003413SCH01A
+		- just tighten the three inner bolts over the front crankshaft to attach the inner piece of the tool
+		- insert the seal into the outer portion of the tool
+		- then place the outer portion over the now-attached stud
+		- use the included pushing nut to press it securely onto the front crankshaft. 
+		- The included pushing nut ensures uniform pressure, preventing leaks and ensuring optimal engine performance.
+	- [119600](./crankshaft-seal-tool-engine-n12-ep6.jpg) / 1 19 600
+	- 11117568264
+	- 83300495926
+	- 11311439853
+	- TCS 46127
+	- 83300495940
 
 # Reniflard
 - Il convoie les vapeurs d'huiles du haut du moteur vers l'admission (pour les brûler avec les explosions).
@@ -168,7 +234,8 @@ Joint Elring 895.580, OE 11617528174 (environ 5 euro).
 - OE: 64317944407 / 64319127516
 
 # Light
-H4
+- H4
+- plate : c5w / 5W (5 watts) / 12V 
 
 # Ecrou antivol
 Il faut compter le nombre de dents, on peut ansuite le trouver sur Internet. 
@@ -192,6 +259,13 @@ Il faut compter le nombre de dents, on peut ansuite le trouver sur Internet.
 # Nettoyage
 Comment soigner les cuirs et les tissus ?
 
+# Sièges
+- Les dossiers des sièges avant ont du jeu.
+- Il y a un couinement de petit oiseau dans un siège arrière qui est absent banquettes rabattues.
+
+# Tapis
+Il faut le percer ?
+
 # Quincaillerie
 - Ecrous plastique 10mm : 51161943122 (Restagraf 12665) ou 07147336362 (ou 07147221224 mais peu répandus)
 - Rivets plastiques (notamment passages de roue) : 
@@ -209,14 +283,6 @@ Comment soigner les cuirs et les tissus ?
 		### Rear
 		- Agraphes clips x2 : 51451949950  / 07146988451.
 		- fillister head screw x2 : 07147115231  / 07147146367
-
-# Tapis
-Il faut le percer ?
-
-# Petrol filter
-- Cannot be renewed, in case of probem, the whole assembly needs to be replaced
-- https://forum-auto.caradisiac.com/topic/87804-remplacer-le-filtre-%C3%A0-essence-cooper-120cv-de-2009/
-- We come over OE: 11252754870 sometimes but not sure it can fit somewhere.
 
 # Couples serrage
 - roues : 140 Nm (semble beaucoup) ([3] 1A-2)
