@@ -55,12 +55,11 @@ LCI (facelift) à partir de mars ou août 2010.
 - Il y a notamment une tresse de masse sur la gauche du compartiment moteur et un fil sous le couvre culasse à vérifier
 	- [Masse - vidéo](https://youtu.be/Rcj1SJjjm4A?t=983)
 - Vérifier la continuité de la masse avec le bloc moteur
-### Fusibles et relais
+### Fusibles et relais
 - Il y a un relais noir en bas de la colonne du milieu de la boîte à fusible aux pieds intérieur avant droit, relais R2
 	- c'est une relais "30G" donc toujours actif une fois la clé insérée du moins
-	- en fonction de ce qu'il alimente, c'est normal qu'il chauffe
+	- en fonction de ce qu'il alimente, c'est normal qu'il chauffe, vérifier que ce n'est cependant pas le cas voiture éteinte et fermée
 	- un relais peut avoir une température de 40-50°c, mais à 70°c il faut le remplacer
-	- il devient vite chaud, vérifier que ce n'est pas le cas voiture éteinte et fermée
 	- je l'ai enlevé pour voir, les essuies-glaces se sont mis en route
 ## Infotainment
 ### Réglages
@@ -102,7 +101,7 @@ OE: 11127542116
 - Huile (4.25L says 1A-2[^Haynes])
 	- BMW Longlife-01 (LL-01) [^Manuel]
 	- BMW Longlife-01 FR (LL-01 FR) [^Manuel]
-	- BMW LL-04 Long-life 04. (0-16[^Haynes] et [^Manuel])
+	- **BMW LL-04 Long-life 04. (0-16[^Haynes] et [^Manuel])**
 	- Pour appoint, SAE 0W-30; SAE 5W-30 ou ACEA A3 possible. (0-16[^Haynes])
 	- À la rigueur, BMW Longlife 98 ou ACEA A3/B4 [^Manuel]
 	- Total Classic 9 LL 5W-30
@@ -169,11 +168,11 @@ fermer le circuit et ainsi accélérer la chauffe.
 	- https://www.youtube.com/watch?v=JTjCEk2pUog
 
 ### Coolant
-- 82 14 0 031 133 / 82-14-0-031-133 / 82-14-0-031-133-M26 / 82.14.0.031.133 / 82140031133
+- 82 14 0 031 133 / 82-14-0-031-133 / 82-14-0-031-133-M26 / 82.14.0.031.133 / **82140031133**
 	- Can be bought from Mini
 		- This phosphate and nitrite-free, non-diluted coolant should be used with a 50/50 distilled water mix. 
 - Hard to know what is the aftermarket equivalent
-	- [Pentosin NF](./Pentosin-Product-Data-Sheet-Antifreeze-Pentofrost-NF.pdf) fits
+	- [Pentosin NF](./docs/Pentosin-Product-Data-Sheet-Antifreeze-Pentofrost-NF.pdf) fits
 - Le bouchon semble pouvoir tourner sans fin
 	- essayer de le changer et sinon, il faudra changer le vase
 		- bouchon OE : **17135A1BD89**, 17117639024, 17132754264, 7639024, 2754264
@@ -218,7 +217,7 @@ fermer le circuit et ainsi accélérer la chauffe.
 			- then place the outer portion over the now-attached stud
 			- use the included pushing nut to press it securely onto the front crankshaft. 
 			- The included pushing nut ensures uniform pressure, preventing leaks and ensuring optimal engine performance.
-		- [119600](./crankshaft-seal-tool-engine-n12-ep6.jpg) / 1 19 600
+		- [119600](./docs/crankshaft-seal-tool-engine-n12-ep6.jpg) / 1 19 600
 		- 11117568264
 		- 83300495926
 		- 11311439853
@@ -270,7 +269,7 @@ fermer le circuit et ainsi accélérer la chauffe.
 - Vissage: https://youtu.be/Rcj1SJjjm4A?t=1045
 
 ## PCV Valve
-![PCV Valve](./meat-doria_91669.jpg "Meat&Doria PCV Valve")
+![PCV Valve](./docs/meat-doria_91669.jpg "Meat&Doria PCV Valve")
 - Fait normalement partie du couvre culasse mais on peut le trouver au détail (environ 25 euro) :
 	- VAICO V20-3344 PCV valve
 	- Meat & Doria 91669
@@ -365,7 +364,7 @@ Balai d'essuie-glace VALEO 574247 VR30.
 
 ## Resources
 - realoem.com
-- http://distributionthp.free.fr/ressources/argus_enquete_moteurs_psa_vti_thp.pdf [local copy](./argus_enquete_moteurs_psa_vti_thp.pdf)
+- http://distributionthp.free.fr/ressources/argus_enquete_moteurs_psa_vti_thp.pdf [local copy](./docs/argus_enquete_moteurs_psa_vti_thp.pdf)
 [^manu-classic-car]: Manu Classic Car
 [^Haynes]: Haynes
 [^Manuel]: Manuel de la voiture
